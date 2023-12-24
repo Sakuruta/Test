@@ -3,5 +3,7 @@ public class Test {
         System.out.println("new branch TEST");
 
         System.out.println("new branch TEST");
+
+        System.out.println("new branch TEST");
     }
 }
